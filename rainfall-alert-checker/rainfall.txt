@@ -1,0 +1,16 @@
+# SAMPLE DATA for testing - these are NOT real IMD readings.
+# Format: district,rainfall_mm   (rainfall in the last 24 hours)
+# The 12 districts of Himachal Pradesh:
+Bilaspur,12.4
+Chamba,48.0
+Hamirpur,71.2
+Kangra,132.5
+Kinnaur,0.0
+Kullu,98.6
+Lahaul and Spiti,1.2
+Mandi,210.3
+Shimla,58.9
+Sirmaur,64.5
+Solan,15.6
+# The next line is wrong on purpose, to show that bad lines are reported:
+Una,abc
